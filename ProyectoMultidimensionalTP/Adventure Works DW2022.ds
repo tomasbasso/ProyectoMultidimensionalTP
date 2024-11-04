@@ -6,8 +6,7 @@
   <ConnectionString>Data Source=TOMASBASSOFERNA\SQLDEVELOPER2022;Initial Catalog=AdventureWorksDW2022;Integrated Security=True</ConnectionString>
   <ConnectionStringSecurity>Unchanged</ConnectionStringSecurity>
   <ImpersonationInfo>
-    <ImpersonationMode>ImpersonateAccount</ImpersonationMode>
-    <Account></Account>
+    <ImpersonationMode>ImpersonateServiceAccount</ImpersonationMode>
     <ImpersonationInfoSecurity>Unchanged</ImpersonationInfoSecurity>
   </ImpersonationInfo>
   <ManagedProvider>System.Data.SqlClient</ManagedProvider>
